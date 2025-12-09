@@ -13,7 +13,7 @@
 .cont{
     background-color: rgba(154, 18, 18, 0.332);
     color: aliceblue;
-    height: 675px;
+    height: 100vh;
     width: 800px;
     position: relative;
     margin: auto;
