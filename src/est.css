@@ -15,7 +15,7 @@
     color: aliceblue;
     height: 100vh;
     width: 800px;
-    position: relative;
+    position: absolute;
     margin: auto;
     display: flex;
     flex-direction: column;
